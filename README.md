@@ -58,10 +58,3 @@ This project is licensed under the MIT License - see the **LICENSE** file for de
 Feel free to connect if you have questions or want to collaborate on similar projects.
 
 ---
-
-### **2. Update and Commit the README.md File:**
-
-- Click **Commit Changes** after pasting the content.  
-- Add a meaningful commit message like **"Updated README with project overview and data sources"**.  
-
----
