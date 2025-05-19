@@ -68,5 +68,6 @@ This project is licensed under the MIT License - see the **LICENSE** file for de
 
 ## Contact
 Feel free to connect if you have questions or want to collaborate on similar projects.
+LinkedIn: www.linkedin.com/in/ishankhanijo
 
 ---
